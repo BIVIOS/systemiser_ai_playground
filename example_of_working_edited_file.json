@@ -1,0 +1,315 @@
+{
+  "Blocks": {
+    "4Zk3c7Zo": {
+      "CT": {
+        "CD": "1",
+        "LB": "",
+        "MFL": 0,
+        "MLL": 1,
+        "T": "Main frame",
+        "W": 400,
+        "__key": "4Zk3c7Zo"
+      },
+      "ED": {
+        "LEA": "BGYt5gmu3Qg5HyBxGlTjxZOBgyW2",
+        "LED": 1776927254418
+      },
+      "LY": {
+        "CLM": "simple",
+        "LC": 1,
+        "LCS": 1,
+        "LLM": "simple",
+        "LLO": {
+          "numberTracks": 4,
+          "trackType": "row"
+        },
+        "LR": 1,
+        "LRS": 1
+      },
+      "RL": {
+        "P": "ROOT",
+        "LN": {
+          "4gPGhoOV": 1024
+        }
+      }
+    },
+    "ROOT": {
+      "CT": {
+        "CD": "",
+        "LB": "",
+        "MFL": 2,
+        "MLL": 1,
+        "T": "",
+        "W": 0,
+        "__key": "ROOT"
+      },
+      "ED": {
+        "LEA": "BGYt5gmu3Qg5HyBxGlTjxZOBgyW2",
+        "LED": 1776927171596
+      },
+      "LY": {
+        "CLM": "simple",
+        "LC": 0,
+        "LCS": 1,
+        "LLM": "simple",
+        "LLO": {
+          "numberTracks": 4,
+          "trackType": "row"
+        },
+        "LR": 0,
+        "LRS": 1
+      },
+      "RL": {
+        "BK": {
+          "4Zk3c7Zo": 64,
+          "dOx9tag6": 80,
+          "mN8pQ2xR": 96
+        },
+        "P": ""
+      }
+    },
+    "dOx9tag6": {
+      "CT": {
+        "__key": "dOx9tag6",
+        "CD": "2",
+        "T": "Another frame",
+        "LB": "",
+        "MLL": 1,
+        "MFL": 1,
+        "W": 400
+      },
+      "RL": {
+        "P": "ROOT",
+        "BK": {
+          "jO7aUkaL": 1024
+        }
+      },
+      "ED": {
+        "LEA": "BGYt5gmu3Qg5HyBxGlTjxZOBgyW2",
+        "LED": 1776927263345
+      },
+      "LY": {
+        "CLM": "simple",
+        "LLM": "simple",
+        "LLO": {
+          "numberTracks": 4,
+          "trackType": "row"
+        },
+        "LC": 2,
+        "LR": 1,
+        "LCS": 1,
+        "LRS": 1
+      }
+    },
+    "jO7aUkaL": {
+      "CT": {
+        "__key": "jO7aUkaL",
+        "CD": "2.1",
+        "T": "Frame in another frame",
+        "LB": "",
+        "MLL": 1,
+        "MFL": 0,
+        "W": 400
+      },
+      "RL": {
+        "P": "dOx9tag6",
+        "LN": {
+          "KOn8CBLj": 1024,
+          "sT4kP9dW": 2048
+        }
+      },
+      "ED": {
+        "LEA": "BGYt5gmu3Qg5HyBxGlTjxZOBgyW2",
+        "LED": 1776927269349
+      },
+      "LY": {
+        "CLM": "simple",
+        "LLM": "simple",
+        "LLO": {
+          "numberTracks": 4,
+          "trackType": "row"
+        },
+        "LC": 1,
+        "LR": 1,
+        "LCS": 1,
+        "LRS": 1
+      }
+    },
+    "mN8pQ2xR": {
+      "CT": {
+        "__key": "mN8pQ2xR",
+        "CD": "3",
+        "T": "Frame 3",
+        "LB": "",
+        "MLL": 1,
+        "MFL": 0,
+        "W": 400
+      },
+      "RL": {
+        "P": "ROOT",
+        "LN": {
+          "V8nLm2Qp": 1024
+        }
+      },
+      "ED": {
+        "LEA": "BGYt5gmu3Qg5HyBxGlTjxZOBgyW2",
+        "LED": 1776927297776
+      },
+      "LY": {
+        "CLM": "simple",
+        "LLM": "simple",
+        "LLO": {
+          "numberTracks": 4,
+          "trackType": "row"
+        },
+        "LC": 3,
+        "LR": 1,
+        "LCS": 1,
+        "LRS": 1
+      }
+    }
+  },
+  "Editing": {
+    "FlowCount": 2,
+    "HashCount": 15,
+    "HashCountLabels": 1,
+    "LastEditAuthor": "BGYt5gmu3Qg5HyBxGlTjxZOBgyW2",
+    "LastEditDate": 1776927297776
+  },
+  "Info": {
+    "AuthorID": "BGYt5gmu3Qg5HyBxGlTjxZOBgyW2",
+    "Authors": [
+      {
+        "Code": "BGYt5gmu3Qg5HyBxGlTjxZOBgyW2",
+        "Name": "Max van Someren"
+      }
+    ],
+    "Description": "Simple_test",
+    "FileID": "",
+    "FileSpec": "3.00",
+    "Title": "Simple_test"
+  },
+  "Labels": {
+    "NumberActLevels": 0,
+    "Counts": {}
+  },
+  "Settings": {
+    "AllowManyManyFlows": true,
+    "CodeStyle": "numbers",
+    "DefaultCardWidth": 400,
+    "FileOpeningVisibility": "open",
+    "HideModuleTitleCode": false,
+    "IDStyle": "dots",
+    "Readability": {
+      "maxCharactersInLine": 100,
+      "maxFramesInLevel": 9,
+      "maxLinesPerLevel": 9,
+      "maxSentencesPerLine": 9,
+      "maxWordConceptsInSentence": 15,
+      "maxWordsPerFrame": 300
+    },
+    "Tasks": {
+      "DateDisplay": "b",
+      "DayEnd": "17:00",
+      "DayStart": "08:00",
+      "Resolution": "d",
+      "TimeZone": "Europe/London",
+      "WeekdayStart": "monday",
+      "WorkingDays": 5
+    }
+  },
+  "Lines": {
+    "4gPGhoOV": {
+      "CT": {
+        "__key": "4gPGhoOV",
+        "AL": 1,
+        "LB": "",
+        "LH": "An item"
+      },
+      "RL": {
+        "P": "4Zk3c7Zo"
+      },
+      "FW": {
+        "FIn": false,
+        "FOut": true,
+        "FlwOut": [
+          "KOn8CBLj"
+        ],
+        "TO": "1"
+      },
+      "ED": {
+        "LEA": "BGYt5gmu3Qg5HyBxGlTjxZOBgyW2",
+        "LED": 1776927297776
+      }
+    },
+    "KOn8CBLj": {
+      "CT": {
+        "__key": "KOn8CBLj",
+        "AL": 1,
+        "LB": "",
+        "LH": "A receiving item"
+      },
+      "RL": {
+        "P": "jO7aUkaL"
+      },
+      "FW": {
+        "FIn": true,
+        "FOut": false,
+        "FlwIn": [
+          "4gPGhoOV"
+        ],
+        "TI": "1"
+      },
+      "ED": {
+        "LEA": "BGYt5gmu3Qg5HyBxGlTjxZOBgyW2",
+        "LED": 1776927297776
+      }
+    },
+    "V8nLm2Qp": {
+      "CT": {
+        "__key": "V8nLm2Qp",
+        "AL": 1,
+        "LB": "",
+        "LH": "Link to Another Frame"
+      },
+      "RL": {
+        "P": "mN8pQ2xR"
+      },
+      "FW": {
+        "FIn": false,
+        "FOut": true,
+        "FlwOut": [
+          "sT4kP9dW"
+        ],
+        "TO": "2"
+      },
+      "ED": {
+        "LEA": "BGYt5gmu3Qg5HyBxGlTjxZOBgyW2",
+        "LED": 1776927297776
+      }
+    },
+    "sT4kP9dW": {
+      "CT": {
+        "__key": "sT4kP9dW",
+        "AL": 1,
+        "LB": "",
+        "LH": "Link to Another Frame"
+      },
+      "RL": {
+        "P": "jO7aUkaL"
+      },
+      "FW": {
+        "FIn": true,
+        "FOut": false,
+        "FlwIn": [
+          "V8nLm2Qp"
+        ],
+        "TI": "2"
+      },
+      "ED": {
+        "LEA": "BGYt5gmu3Qg5HyBxGlTjxZOBgyW2",
+        "LED": 1776927297776
+      }
+    }
+  }
+}
